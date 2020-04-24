@@ -1,0 +1,10 @@
+.container {
+	width: 50%;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+.welcome-title {
+	color: #212121;
+	font-size: 120px;
+}
